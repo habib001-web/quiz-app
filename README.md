@@ -8,6 +8,7 @@ The Quiz App is a simple web application that allows users to answer multiple-ch
 - Immediate feedback on answer selection (correct or incorrect).
 - Score tracking displayed after all questions are answered.
 - Mark quiz as completed with a checkbox.
+- Video tutorials available for guidance.
 
 ## Setup Instructions
 1. Clone the repository or download the source code files.
@@ -18,6 +19,7 @@ The Quiz App is a simple web application that allows users to answer multiple-ch
 - Check the feedback provided after each selection.
 - Click "Next" to continue to the next question.
 - After completing all questions, check your final score and use the checkbox to mark the quiz as completed.
+- Check the embedded video tutorials for additional help.
 
 ## Code Structure
 - `index.html`: Contains the app's HTML structure.
